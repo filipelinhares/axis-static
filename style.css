@@ -15,9 +15,9 @@ body {
 
 .loading {
   position: relative;
-  top: 250px;
+  top: 100px;
   background: #2d2d2d;
-  background: rgba(0, 0, 0, .4);
+  background: rgba(0, 0, 0, .6);
   padding: 50px 0;
 }
 
